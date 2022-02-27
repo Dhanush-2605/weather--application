@@ -1,0 +1,19 @@
+{
+  "name": "weatherapplication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server3.js",
+  "scripts": {
+    "nodemon": "nodemon server3.js"
+  },
+  "author": "dhanush",
+  "license": "ISC",
+  "engines":{
+    "node":"16.13.2"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
